@@ -1,6 +1,6 @@
 **free
 ctl-opt dftname(helloworld);
 dsply 'Hello World!';
-dsply 'USER01';
+dsply 'from USER01';
 *inlr = *on;
 return;
